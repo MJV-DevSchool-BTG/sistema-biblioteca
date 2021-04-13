@@ -7,9 +7,9 @@ Sistema desenvolvido como desafio na DevSchool MJV
                 
 + [Mayza](https://github.com/mayzacatrinck)
 + [Priscila](https://github.com/Prissie)
-+ ~~Ian~~
-+ ~~João Oliveira~~
-+ ~~Lucas Anastacio~~
++ [Davi](https://github.com/Davi-Mendonca)
++ [Leonardo](https://github.com/BambamRR)
++ [Ryan](https://github.com/ryansiqueira)
 
 
 ### Estrutura do Projeto
